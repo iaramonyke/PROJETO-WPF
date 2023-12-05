@@ -1,7 +1,8 @@
-#PROJETO WPF
+# PROJETO WPF
 Este é um projeto para fins avaliativos da matéria de Programação Estruturada e Orientada a Objetos, servindo assim complemento da nota do 4° bimestre.
 
 Sobre o projeto:
+
 Tema 04 – Gênero/Livro
 
 A aplicação deve permitir cadastrar um gênero e alguns livros desse gênero. As informações de cada livro
